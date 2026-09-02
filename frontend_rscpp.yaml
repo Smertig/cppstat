@@ -1,0 +1,65 @@
+---
+frontend:
+  id: rscpp
+  name: R++
+  full_name: ReSharper C++
+  vendor: JetBrains
+  kind: frontend
+  language: C++
+  standard_library: false
+  products:
+    - CLion
+    - Rider
+    - ReSharper C++ for Visual Studio
+  refs:
+    - "https://www.jetbrains.com/resharper-cpp/"
+    - "https://www.jetbrains.com/clion/"
+issue_tracker:
+  name: JetBrains YouTrack
+  url_template: "https://youtrack.jetbrains.com/issue/{id}"
+releases:
+  - version: "2026.2"
+    released: July 22, 2026
+    refs: []
+  - version: "2026.1"
+    released: March 30, 2026
+    refs: []
+  - version: "2025.3"
+    released: November 11, 2025
+    refs: []
+  - version: "2025.2"
+    released: August 14, 2025
+    refs: []
+  - version: "2025.1"
+    released: April 16, 2025
+    refs: []
+  - version: "2024.3"
+    released: November 13, 2024
+    refs: []
+  - version: "2024.2"
+    released: August 15, 2024
+    refs: []
+  - version: "2024.1"
+    released: April 9, 2024
+    refs: []
+  - version: "2023.3"
+    released: December 6, 2023
+    refs: []
+  - version: "2023.2"
+    released: August 2, 2023
+    refs: []
+  - version: "2023.1"
+    released: April 5, 2023
+    refs: []
+  - version: "2022.3"
+    released: December 7, 2022
+    refs: []
+  - version: "2022.2"
+    released: August 2, 2022
+    refs: []
+  - version: "2022.1"
+    released: April 19, 2022
+    refs: []
+  - version: "2021.3"
+    released: December 8, 2021
+    refs: []
